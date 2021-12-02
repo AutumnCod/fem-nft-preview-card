@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
--  Solution URL: [Add solution URL here](https://your-solution-url.com)
--  Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-  Solution URL: [Github](https://github.com/AutumnCod/fem-nft-preview-card)
+-  Live Site URL: [Netlify](https://youthful-kilby-80c4fc.netlify.app/)
 
 ## My process
 
@@ -41,5 +41,4 @@ Users should be able to:
 
 ## Author
 
--  Website - [Add your name here](https://www.your-site.com)
--  Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+-  Frontend Mentor - [@AutumnCod](https://www.frontendmentor.io/profile/AutumnCod)
