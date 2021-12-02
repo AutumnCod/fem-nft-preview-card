@@ -179,6 +179,22 @@ hr {
 
 @media (min-width: 34.375em) {
 	.card {
-		width: 21.625rem;
+		width: 20rem;
 	}
+
+	.card__description {
+		margin-top: 1rem;
+		font-size: 16px;
+	}
+}
+
+.attribution {
+	font-size: 14px;
+	margin-top: 0;
+	font-weight: 300;
+}
+
+.attribution a {
+	font-size: 14px;
+	color: var(--primary-cyan);
 }
