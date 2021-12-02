@@ -39,3 +39,7 @@ body {
 	color: #fff;
 	background-color: var(--main-bg);
 }
+
+.flex {
+	display: flex;
+}
